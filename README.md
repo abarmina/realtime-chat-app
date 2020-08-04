@@ -1,5 +1,5 @@
 ﻿# realtime-chat-app
-This project contains the source code for a very simple realtime chat application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their chat messages. 
+This project contains the source code for a realtime chat application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their chat messages. 
 
 ![Chat Screenshot](https://cdn1.savepice.ru/uploads/2020/8/4/bd51ceb62fe218770987b0784a61cc40-full.jpg)
 
